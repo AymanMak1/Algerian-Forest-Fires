@@ -1,0 +1,4 @@
+pandas profiling
+https://www.youtube.com/watch?v=Ef169VELt5o
+pandas sweetviz
+https://www.youtube.com/watch?v=UR_OK8vBpeY
