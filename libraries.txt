@@ -1,4 +1,9 @@
+'''
 pandas profiling
 https://www.youtube.com/watch?v=Ef169VELt5o
 pandas sweetviz
 https://www.youtube.com/watch?v=UR_OK8vBpeY
+
+https://www.dummies.com/programming/big-data/data-science/8-best-practices-in-data-preparation/
+https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/
+'''
