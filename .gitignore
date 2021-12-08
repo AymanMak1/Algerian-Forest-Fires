@@ -1,9 +1,0 @@
-.DS_Store
-# Ignore folders
-datasets/
-reports/
-utility/
-
-# Ignore all text files
-*.txt
-*.pdf
