@@ -1,13 +1,11 @@
 '''
-pandas profiling
-https://www.youtube.com/watch?v=Ef169VELt5o
-pandas sweetviz
-https://www.youtube.com/watch?v=UR_OK8vBpeY
-
 https://www.dummies.com/programming/big-data/data-science/8-best-practices-in-data-preparation/
 https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/
 https://realpython.com/python-statistics/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3576830/
+https://elitedatascience.com/dimensionality-reduction-algorithms#feature-selection
+https://elitedatascience.com/overfitting-in-machine-learning
+https://www.kdnuggets.com/2020/05/guide-choose-right-machine-learning-algorithm.html
 '''
 
 
